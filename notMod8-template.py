@@ -21,7 +21,7 @@ def yesViaNotMod8(progString,inString):
 
     #** L0210: Add 2nd arg to notMod8 call, if needed.
     #** If not needed, erase ', . . .'
-    val = notMod8(rf(' altersYesNotMod8.py'), . . .)
+    val = notMod8(rf(' altersYesNotMod8.py'))
     
     #** L0210: Add code needed after call to notMod8()
 
